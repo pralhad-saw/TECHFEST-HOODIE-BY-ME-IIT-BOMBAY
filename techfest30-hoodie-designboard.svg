@@ -1,7 +1,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950" font-family="Space Grotesk, sans-serif">
   <!-- ================= TECHFEST 30 — AETHERIAL RENAISSANCE : EDITABLE DESIGN BOARD ================= -->
-  <!-- Import this file into Figma (drag & drop). All texts are live text layers, all shapes are vectors. -->
+  <!-- Simply Import this file into Figma (drag & drop). All texts are live text layers, all shapes are vectors. -->
 
   <rect id="backdrop" x="0" y="0" width="1600" height="950" fill="#050505"/>
   <rect id="board" x="270" y="62" width="1060" height="826" fill="#F0ECE0" stroke="#FF6F00" stroke-width="7"/>
