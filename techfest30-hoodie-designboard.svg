@@ -1,1 +1,171 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950" font-family="Space Grotesk, sans-serif">
+  <!-- ================= TECHFEST 30 — AETHERIAL RENAISSANCE : EDITABLE DESIGN BOARD ================= -->
+  <!-- Import this file into Figma (drag & drop). All texts are live text layers, all shapes are vectors. -->
+
+  <rect id="backdrop" x="0" y="0" width="1600" height="950" fill="#050505"/>
+  <rect id="board" x="270" y="62" width="1060" height="826" fill="#F0ECE0" stroke="#FF6F00" stroke-width="7"/>
+  <rect id="board-keyline" x="281" y="73" width="1038" height="804" fill="none" stroke="#141414" stroke-width="1.5"/>
+
+  <!-- ================= HEADER ================= -->
+  <g id="header">
+    <g id="header-star" transform="translate(312,106)">
+      <polygon points="14,0 4.2,1.7 9.9,9.9 1.7,4.2 0,14 -1.7,4.2 -9.9,9.9 -4.2,1.7 -14,0 -4.2,-1.7 -9.9,-9.9 -1.7,-4.2 0,-14 1.7,-4.2 9.9,-9.9 4.2,-1.7" fill="#141414"/>
+    </g>
+    <text id="header-kicker" x="300" y="142" font-size="12" letter-spacing="2" fill="#141414">DESIGN BOARD</text>
+    <text id="header-title" x="300" y="184" font-size="30" font-weight="700" letter-spacing="0.5" fill="#141414">TECHFEST 30 — AETHERIAL RENAISSANCE</text>
+    <text id="header-tagline" x="300" y="208" font-size="11" letter-spacing="1.5" fill="#141414">— INSPIRE. INNOVATE. ELEVATE. —</text>
+
+    <g id="header-orbit-logo" transform="translate(1105,140) scale(0.92)" stroke="#FF6F00" fill="none" stroke-width="1.6">
+      <ellipse rx="55" ry="20" transform="rotate(-14)"/>
+      <ellipse rx="55" ry="20" transform="rotate(24)"/>
+      <path d="M 0 -13 C 1.6 -3.2 3.2 -1.6 13 0 C 3.2 1.6 1.6 3.2 0 13 C -1.6 3.2 -3.2 1.6 -13 0 C -3.2 -1.6 -1.6 -3.2 0 -13 Z" fill="#FF6F00" stroke="none"/>
+      <circle cx="38" cy="-30" r="5" fill="#FF6F00" stroke="none"/>
+      <circle cx="-44" cy="24" r="3" fill="#FF6F00" stroke="none"/>
+      <circle cx="48" cy="20" r="3.5" fill="#FF6F00" stroke="none"/>
+    </g>
+    <g id="header-meta" text-anchor="end" fill="#141414" font-size="12.5">
+      <text x="1300" y="130" font-weight="700">TECHFEST 30</text>
+      <text x="1300" y="149" font-weight="700">IIT BOMBAY</text>
+      <text x="1300" y="168">16—18 DEC 2026</text>
+      <text x="1300" y="187">MUMBAI</text>
+    </g>
+    <line id="header-rule" x1="281" y1="222" x2="1319" y2="222" stroke="#141414" stroke-width="2"/>
+  </g>
+
+  <!-- ================= HOODIE FRONT ================= -->
+  <g id="hoodie-front" transform="translate(315,262)">
+    <g id="front-garment">
+      <path id="front-sleeve-left" d="M 132 118 C 96 126 74 150 64 186 L 40 330 C 37 346 45 356 60 359 L 92 365 C 104 367 113 360 116 348 L 134 240 C 138 214 138 170 136 140 Z" fill="#191919"/>
+      <path id="front-sleeve-right" d="M 328 118 C 364 126 386 150 396 186 L 420 330 C 423 346 415 356 400 359 L 368 365 C 356 367 347 360 344 348 L 326 240 C 322 214 322 170 324 140 Z" fill="#191919"/>
+      <path id="front-cuff-left" d="M 46 340 L 100 351 L 94 384 C 92 394 84 399 74 397 L 52 392 C 42 390 37 382 39 372 Z" fill="#141414"/>
+      <path id="front-cuff-right" d="M 414 340 L 360 351 L 366 384 C 368 394 376 399 386 397 L 408 392 C 418 390 423 382 421 372 Z" fill="#141414"/>
+      <path id="front-body" d="M 132 116 L 328 116 C 342 120 350 130 352 144 L 358 402 C 358 416 350 424 336 424 L 124 424 C 110 424 102 416 102 402 L 108 144 C 110 130 118 120 132 116 Z" fill="#1F1F1F"/>
+      <path id="front-hem" d="M 102 400 L 358 400 L 358 402 C 358 416 350 424 336 424 L 124 424 C 110 424 102 416 102 402 Z" fill="#191919"/>
+      <path id="front-pocket" d="M 176 298 L 284 298 C 290 298 294 302 295 308 L 305 372 C 306 380 300 386 292 386 L 168 386 C 160 386 154 380 155 372 L 165 308 C 166 302 170 298 176 298 Z" fill="#232323" stroke="#0C0C0C" stroke-width="2"/>
+      <path id="front-hood" d="M 230 8 C 184 8 150 38 148 76 C 147 94 156 106 172 112 L 288 112 C 304 106 313 94 312 76 C 310 38 276 8 230 8 Z" fill="#1B1B1B"/>
+      <path id="front-hood-inner" d="M 172 90 C 172 50 288 50 288 90 C 288 106 260 116 230 116 C 200 116 172 106 172 90 Z" fill="#0D0D0D"/>
+      <path id="front-drawstring-left" d="M 216 116 C 214 138 213 156 214 174" stroke="#2E2E2E" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+      <path id="front-drawstring-right" d="M 244 116 C 246 138 247 156 246 174" stroke="#2E2E2E" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    </g>
+    <g id="front-print">
+      <g id="front-chest-logo" transform="translate(296,168) scale(0.62)" stroke="#FF6F00" fill="none" stroke-width="2">
+        <ellipse rx="55" ry="20" transform="rotate(-14)"/>
+        <ellipse rx="55" ry="20" transform="rotate(24)"/>
+        <path d="M 0 -13 C 1.6 -3.2 3.2 -1.6 13 0 C 3.2 1.6 1.6 3.2 0 13 C -1.6 3.2 -3.2 1.6 -13 0 C -3.2 -1.6 -1.6 -3.2 0 -13 Z" fill="#FF6F00" stroke="none"/>
+        <circle cx="38" cy="-30" r="6" fill="#FF6F00" stroke="none"/>
+        <circle cx="-44" cy="24" r="4" fill="#FF6F00" stroke="none"/>
+        <circle cx="48" cy="20" r="4.5" fill="#FF6F00" stroke="none"/>
+      </g>
+      <text id="front-print-title" x="230" y="252" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#EDE9DC">TECHFEST 30</text>
+      <text id="front-print-sub" x="230" y="274" text-anchor="middle" font-size="11" letter-spacing="3" fill="#FF6F00">IIT BOMBAY</text>
+    </g>
+  </g>
+
+  <!-- ================= HOODIE BACK ================= -->
+  <g id="hoodie-back" transform="translate(845,262)">
+    <g id="back-garment">
+      <path id="back-sleeve-left" d="M 132 118 C 96 126 74 150 64 186 L 40 330 C 37 346 45 356 60 359 L 92 365 C 104 367 113 360 116 348 L 134 240 C 138 214 138 170 136 140 Z" fill="#191919"/>
+      <path id="back-sleeve-right" d="M 328 118 C 364 126 386 150 396 186 L 420 330 C 423 346 415 356 400 359 L 368 365 C 356 367 347 360 344 348 L 326 240 C 322 214 322 170 324 140 Z" fill="#191919"/>
+      <path id="back-cuff-left" d="M 46 340 L 100 351 L 94 384 C 92 394 84 399 74 397 L 52 392 C 42 390 37 382 39 372 Z" fill="#141414"/>
+      <path id="back-cuff-right" d="M 414 340 L 360 351 L 366 384 C 368 394 376 399 386 397 L 408 392 C 418 390 423 382 421 372 Z" fill="#141414"/>
+      <path id="back-body" d="M 132 116 L 328 116 C 342 120 350 130 352 144 L 358 402 C 358 416 350 424 336 424 L 124 424 C 110 424 102 416 102 402 L 108 144 C 110 130 118 120 132 116 Z" fill="#1F1F1F"/>
+      <path id="back-hem" d="M 102 400 L 358 400 L 358 402 C 358 416 350 424 336 424 L 124 424 C 110 424 102 416 102 402 Z" fill="#191919"/>
+      <path id="back-hood" d="M 230 8 C 184 8 150 38 148 76 C 147 94 156 106 172 112 L 288 112 C 304 106 313 94 312 76 C 310 38 276 8 230 8 Z" fill="#1B1B1B"/>
+      <path id="back-hood-seam" d="M 230 10 C 230 44 230 80 230 110" stroke="#0D0D0D" stroke-width="2.5" fill="none"/>
+    </g>
+    <g id="back-print">
+      <g id="back-print-coords" font-family="DM Mono, monospace" font-size="9" fill="#CFCBBD">
+        <text x="118" y="161">19.1136° N</text>
+        <text x="118" y="181">72.9189° E</text>
+        <text x="118" y="201">0.0000° N</text>
+      </g>
+      <g id="back-print-status" font-family="DM Mono, monospace" font-size="9" fill="#CFCBBD" text-anchor="end">
+        <text x="342" y="161">ORBITAL ALIGNMENT</text>
+        <text x="342" y="181">SYSTEM STATUS</text>
+        <text x="342" y="201">NOMINAL</text>
+      </g>
+      <g id="back-print-star" transform="translate(230,178)">
+        <line x1="-54" y1="0" x2="54" y2="0" stroke="#FF6F00" stroke-width="1.5" stroke-dasharray="1.5 4"/>
+        <polygon points="14,0 4.2,1.7 9.9,9.9 1.7,4.2 0,14 -1.7,4.2 -9.9,9.9 -4.2,1.7 -14,0 -4.2,-1.7 -9.9,-9.9 -1.7,-4.2 0,-14 1.7,-4.2 9.9,-9.9 4.2,-1.7" fill="#FF6F00"/>
+      </g>
+      <text id="back-print-display-1" x="230" y="248" text-anchor="middle" font-family="Rozha One, serif" font-size="31" fill="#EDE9DC">AETHERIAL</text>
+      <text id="back-print-display-2" x="230" y="288" text-anchor="middle" font-family="Rozha One, serif" font-size="31" fill="#EDE9DC">RENAISSANCE</text>
+      <text id="back-print-tagline" x="230" y="318" text-anchor="middle" font-size="12.5" font-weight="700" letter-spacing="1" fill="#FF6F00">BUILD WHAT COMES NEXT</text>
+      <text id="back-print-date" x="230" y="339" text-anchor="middle" font-family="DM Mono, monospace" font-size="10.5" fill="#CFCBBD">16—18 DECEMBER 2026</text>
+      <text id="back-print-place" x="230" y="357" text-anchor="middle" font-family="DM Mono, monospace" font-size="10.5" fill="#CFCBBD">MUMBAI / INDIA</text>
+      <g id="back-print-arch" stroke="#E4E0D2" stroke-width="1.6" fill="none">
+        <path d="M 216 382 A 14 14 0 0 1 244 382"/>
+        <path d="M 230 368 L 230 364"/>
+        <path d="M 196 404 L 196 390 L 208 390 L 208 382 L 252 382 L 252 390 L 264 390 L 264 404 Z"/>
+        <path d="M 221 404 L 221 394 A 9 9 0 0 1 239 394 L 239 404"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- ================= BOTTOM PANELS ================= -->
+  <g id="panels">
+    <line id="panel-rule-top" x1="281" y1="750" x2="1319" y2="750" stroke="#141414" stroke-width="2"/>
+    <line x1="580" y1="750" x2="580" y2="877" stroke="#141414" stroke-width="1.5"/>
+    <line x1="935" y1="750" x2="935" y2="877" stroke="#141414" stroke-width="1.5"/>
+    <line x1="1090" y1="750" x2="1090" y2="877" stroke="#141414" stroke-width="1.5"/>
+
+    <g id="panel-palette">
+      <text x="300" y="778" font-size="13" letter-spacing="1" font-weight="500" fill="#141414">COLOR PALETTE</text>
+      <rect x="300" y="792" width="36" height="36" fill="#FF6F00"/>
+      <text x="350" y="808" font-size="12.5" font-weight="600" fill="#141414">IITB Orange</text>
+      <text x="350" y="824" font-family="DM Mono, monospace" font-size="10.5" fill="#8A8578">#FF6F00</text>
+      <rect x="452" y="792" width="36" height="36" fill="#FFD700"/>
+      <text x="498" y="808" font-size="12.5" font-weight="600" fill="#141414">Ujala Yellow</text>
+      <text x="498" y="824" font-family="DM Mono, monospace" font-size="10.5" fill="#8A8578">#FFD700</text>
+      <rect x="300" y="838" width="36" height="36" fill="#F0ECE0" stroke="#D8D2C4" stroke-width="1.5"/>
+      <text x="350" y="854" font-size="12.5" font-weight="600" fill="#141414">Cream</text>
+      <text x="350" y="870" font-family="DM Mono, monospace" font-size="10.5" fill="#8A8578">#F0ECE0</text>
+      <rect x="452" y="838" width="128" height="36" fill="#181818"/>
+      <text x="462" y="854" font-size="12.5" font-weight="600" fill="#EDE9DC">Charcoal Black</text>
+      <text x="462" y="870" font-family="DM Mono, monospace" font-size="10.5" fill="#BDB8AA">#181818</text>
+    </g>
+
+    <g id="panel-typography">
+      <text x="600" y="778" font-size="13" letter-spacing="1" font-weight="500" fill="#141414">TYPOGRAPHY</text>
+      <text x="600" y="826" font-size="34" font-weight="700" fill="#141414">Aa</text>
+      <text x="652" y="806" font-size="11.5" font-weight="600" fill="#141414">Space Grotesk Bold</text>
+      <text x="652" y="822" font-size="9" letter-spacing="1" fill="#8A8578">HEADLINE / TITLE</text>
+      <text x="776" y="826" font-family="DM Mono, monospace" font-size="30" fill="#141414">Aa</text>
+      <text x="826" y="806" font-size="10.5" font-weight="600" fill="#141414">DM Mono Regular</text>
+      <text x="826" y="822" font-size="9" letter-spacing="1" fill="#8A8578">BODY / CAPTIONS</text>
+      <text x="600" y="872" font-family="DM Mono, monospace" font-size="30" font-weight="500" fill="#141414">Aa</text>
+      <text x="652" y="854" font-family="DM Mono, monospace" font-size="11.5" font-weight="500" fill="#141414">DM Mono Medium</text>
+      <text x="652" y="870" font-size="9" letter-spacing="1" fill="#8A8578">BODY / CAPTIONS</text>
+      <text x="776" y="874" font-family="Grenze Gotisch, serif" font-size="26" fill="#141414">Aa</text>
+      <text x="826" y="854" font-size="10.5" font-weight="600" fill="#141414">Bleeding Cowboys</text>
+      <text x="826" y="870" font-size="9" letter-spacing="1" fill="#8A8578">DISPLAY / QUOTES</text>
+    </g>
+
+    <g id="panel-print">
+      <text x="955" y="778" font-size="13" letter-spacing="1" font-weight="500" fill="#141414">PRINT DETAILS</text>
+      <text x="955" y="804" font-size="11" letter-spacing="0.5" fill="#141414">SCREEN PRINT</text>
+      <text x="955" y="822" font-size="11" letter-spacing="0.5" fill="#141414">SOFT HAND FEEL</text>
+      <text x="955" y="840" font-size="11" letter-spacing="0.5" fill="#141414">WATER-BASED INK</text>
+      <rect x="955" y="852" width="36" height="24" fill="#FF6F00"/>
+      <rect x="999" y="852" width="36" height="24" fill="#F0ECE0" stroke="#D8D2C4" stroke-width="1.5"/>
+    </g>
+
+    <g id="panel-garment">
+      <text x="1110" y="778" font-size="13" letter-spacing="1" font-weight="500" fill="#141414">GARMENT SPECS</text>
+      <text x="1110" y="804" font-size="11" fill="#141414">SIZE RANGE: S—XXL</text>
+      <text x="1110" y="822" font-size="11" fill="#141414">MEASUREMENTS (INCHES)</text>
+      <text x="1110" y="846" font-size="11" fill="#141414">CHEST: 20.5 — 26.5</text>
+      <text x="1110" y="864" font-size="11" fill="#141414">LENGTH: 27.5 — 31.5</text>
+      <g id="garment-icon" transform="translate(1281,831)" stroke="#141414" fill="none">
+        <path d="M -11 -22 C -11 -33 11 -33 11 -22 C 11 -16 6 -13 0 -13 C -6 -13 -11 -16 -11 -22 Z" stroke-width="2"/>
+        <path d="M -6 -21 L 0 -14 L 6 -21" stroke-width="1.5"/>
+        <path d="M -13 -13 C -15 -13 -16 -11 -16 -9 L -19 26 L 19 26 L 16 -9 C 16 -11 15 -13 13 -13 Z" stroke-width="2"/>
+        <path d="M -15 -8 C -21 -3 -25 6 -27 17" stroke-width="6.5" stroke-linecap="round"/>
+        <path d="M 15 -8 C 21 -3 25 6 27 17" stroke-width="6.5" stroke-linecap="round"/>
+        <path d="M -7 8 L 7 8 L 10 22 L -10 22 Z" stroke-width="2"/>
+        <path d="M -3 -12 L -3.5 -2 M 3 -12 L 3.5 -2" stroke-width="1.4"/>
+      </g>
+    </g>
+  </g>
+</svg>
