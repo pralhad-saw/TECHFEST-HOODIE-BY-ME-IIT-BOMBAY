@@ -1,5 +1,4 @@
 # TechFest 30 Hoodie — How to Edit It in Figma (Complete Beginner Guide)
-
  
 You have one file to work with:
 
