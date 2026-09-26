@@ -1,5 +1,6 @@
 # TechFest 30 Hoodie — How to Edit It in Figma (Complete Beginner Guide)
 
+ 
 You have one file to work with:
 
 - **`techfest30-hoodie-designboard.svg`** — the whole design board recreated as vectors: hoodie front + back, all prints, color palette, typography and garment specs. Every text is a **live text layer** and every shape is an **editable vector**, with named layers.
